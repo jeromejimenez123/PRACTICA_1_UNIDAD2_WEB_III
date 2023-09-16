@@ -13,3 +13,5 @@
 <li></li>
 <li></li>
 <li></li>
+<h1>  Diagrama Base de datos </h1>
+![image](https://github.com/jeromejimenez123/PRACTICA_1_UNIDAD2_WEB_III/assets/120347318/d9a96226-822f-44ad-833d-61027282564e)
