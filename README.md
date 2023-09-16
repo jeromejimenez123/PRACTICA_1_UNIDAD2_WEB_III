@@ -42,10 +42,8 @@
 
 ## Interfaz de Usuario Intuitiva
 - Diseña una interfaz de usuario intuitiva y fácil de usar que permita a los usuarios navegar y utilizar la aplicación de manera eficiente.
-
-
-<h1>  Diagrama Base de datos </h1>
-![image](https://github.com/jeromejimenez123/PRACTICA_1_UNIDAD2_WEB_III/assets/120347318/d9a96226-822f-44ad-833d-61027282564e)
-
-<h1>  Diagrama Base de clases </h1>
-
+<h1>  Diagrama BD </h1>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/jeromejimenez123/PRACTICA_1_UNIDAD2_WEB_III/assets/120347318/d9a96226-822f-44ad-833d-61027282564e">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/jeromejimenez123/PRACTICA_1_UNIDAD2_WEB_III/assets/120347318/d9a96226-822f-44ad-833d-61027282564e">
+</picture>
