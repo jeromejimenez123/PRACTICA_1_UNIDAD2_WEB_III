@@ -12,8 +12,7 @@
 
 - Permite agregar nuevos estudiantes con la siguiente información:
   - Nombre
-  - Apellidos
-  - Fecha de nacimiento
+  - Id
 - Permite editar la información de un estudiante existente.
 - Permite eliminar un estudiante de la base de datos.
 
