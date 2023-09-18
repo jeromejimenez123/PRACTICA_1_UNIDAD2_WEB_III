@@ -36,6 +36,7 @@
 ## Consulta de Datos
 - Muestra una lista de estudiantes registrados con resúmenes de sus datos personales.
 - Permite la búsqueda y filtrado de estudiantes y asignaciones.
+- Permite ordenar la lista de estudiantes y sus resúmenes de datos personales según criterios específicos.
 
  
 
