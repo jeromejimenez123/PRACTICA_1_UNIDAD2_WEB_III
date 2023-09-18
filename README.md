@@ -52,6 +52,11 @@
 - funcionalidad 
 - rendimiento
  
+ ## prueba beta 
+- funcionalidad perfecto
+- diseño acabado
+- perfecta condicion
+
 <h1>  Diagrama Base Datos </h1>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/jeromejimenez123/PRACTICA_1_UNIDAD2_WEB_III/assets/120347318/d9a96226-822f-44ad-833d-61027282564e">
