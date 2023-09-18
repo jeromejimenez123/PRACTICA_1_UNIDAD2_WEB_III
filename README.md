@@ -16,6 +16,7 @@
 - Permite editar la información de un estudiante existente.
 - Permite eliminar un estudiante de la base de datos.
 
+
 ## Registro de Asignaciones
 - Permite agregar nuevas asignaciones con la siguiente información:
   - Nombre de la asignación
@@ -47,6 +48,10 @@
 - Editar Estudiante: Permite editar la información de un estudiante existente.
 - Eliminar Estudiante: Permite eliminar a un estudiante de la lista.
 - Actualizar Datos: Botón para actualizar y refrescar la información de estudiantes y asignaciones.
+## pruebas alfa
+- funcionalidad 
+- rendimiento
+ 
 <h1>  Diagrama Base Datos </h1>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/jeromejimenez123/PRACTICA_1_UNIDAD2_WEB_III/assets/120347318/d9a96226-822f-44ad-833d-61027282564e">
